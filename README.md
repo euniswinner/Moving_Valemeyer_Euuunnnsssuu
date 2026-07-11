@@ -1,3 +1,3 @@
 # Moving_Valemeyer_Euuunnnsssuu
 
-I will use AI for this project.
+This project start in 7/11/2026
