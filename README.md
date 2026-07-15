@@ -13,6 +13,7 @@ In 1993, a flood destroyed the twon of Valmeyer, Illinois. Instead of rebuilding
 ##Data Source##
 - public map/geocoding tools:I used this for location of old town vs. new town
 - FEMA flood map and open FEMA data: Flood zone boundary and Data on other towns that moved
+
 ##Known Problems##
 Right now, Part 3 (the statistics part) uses fake data. I made it up to test the method. I will replace it with real data from FEMA once I collect it.
 The map coordinates are rough estimates, not exact. I need to fix these with real county map data.
